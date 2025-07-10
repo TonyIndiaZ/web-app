@@ -166,4 +166,7 @@ public class CardsController {
     	System.out.println("Hello !!, I am Venkatesh");
     	System.out.println("from Warangal working as QA lead");
     }
+        public void companyName() {
+    	System.out.println("Working in DELL SELL copm pvt ltd");
+    }
 }
