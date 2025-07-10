@@ -165,4 +165,7 @@ public class CardsController {
     public void greeting() {
     	System.out.println("Hello !!, I am Venkatesh");
     }
+        public void companyName() {
+    	System.out.println("Working in DELL SELL copm pvt ltd");
+    }
 }
